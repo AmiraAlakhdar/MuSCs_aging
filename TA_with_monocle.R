@@ -89,5 +89,5 @@ seurat_main_partition <- AddMetaData(
 )
 
 
-saveRDS(seurat_main_partition, "pseudo_time.rds")
+saveRDS(seurat_main_partition, "main_partition.rds")
 
