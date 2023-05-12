@@ -271,6 +271,6 @@ dittoHeatmap(seurat_integrated, cd_genes, assay = 'RNA', colors = c(1:4,7))
 
 
 # Save integrated seurat object
-saveRDS(seurat_integrated, "annotated_seurat_2.rds")
+saveRDS(seurat_integrated, "annotated_seurat.rds")
 
 
