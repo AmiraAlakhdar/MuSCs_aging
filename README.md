@@ -21,7 +21,8 @@ Here, I included the following R scripts: <br />
 
 -----
 ## Contributors:
-This work was done by Amira A. Alakhdar, Sruthi Sivakumar, Rylee M. Kopchak, Allison N. Hunter, Fabrisia Ambrosio, Newell R. Washburn
+This work was done by: <br />
+Amira A. Alakhdar, Sruthi Sivakumar, Rylee M. Kopchak, Allison N. Hunter, Fabrisia Ambrosio, Newell R. Washburn
 
 
 
