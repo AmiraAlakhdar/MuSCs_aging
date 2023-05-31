@@ -9,17 +9,17 @@ The stiffening of the extracellular matrix (ECM) with age hinders muscle regener
 <mark>Marked text</mark>
 Here, I included the following R scripts: <br />
 1- Loading data and quality control (<mark>`loading_count_data_and_quality_control.R`</mark>) <br />
-2- Data normalization and visualization (<mark>visualizing_cell_cycle_effect_and_normalization.R</mark>) <br />
-3- Data integration (<mark>data_integration.R</mark>) <br />
-4- Performing diffderential expression between the four samples (<mark>differential_expression_between_samples.R</mark>) <br />
-5- Clustering and cell type annotation (<mark>clustering_and_cell_type_annotation.R</mark>) <br />
-6- Investigating transcription factors activities differences between cell types (<mark>TFs_activities_between_cell_types_dorothea.R</mark>) <br />
-7- Investigating transcription factors activities differences between the four samples (<mark>TFs_activities_between_samples_dorothea.R</mark>) <br />
-8- Trajectory analysis (<mark>TA_with_monocle.R</mark>) <br />
-9- Investigating pathways activities differences between cell types (<mark>investigating_pathways_in_annotated_cell_types_progney.R</mark>) <br />
-10- Investigating pathways activities differences between the four samples (<mark>investigating_pathways_in_samples_progney.R</mark>) <br />
-11- scWGCNA analysis between MuSCs in the late differentiation stage and_ fibroblasts (<mark>scwgcna_analysis_between_late_differentiation_and_fibro.R</mark>) <br />
-12- Investigating transcription factors and opathways activities in fibroblasts emerging from different samples (<mark>fibroblasts_analysis.R</mark>) <br />
+2- Data normalization and visualization (<mark>`visualizing_cell_cycle_effect_and_normalization.R`</mark>) <br />
+3- Data integration (<mark>`data_integration.R`</mark>) <br />
+4- Performing diffderential expression between the four samples (<mark>`differential_expression_between_samples.R`</mark>) <br />
+5- Clustering and cell type annotation (<mark>`clustering_and_cell_type_annotation.R`</mark>) <br />
+6- Investigating transcription factors activities differences between cell types (<mark>`TFs_activities_between_cell_types_dorothea.R`</mark>) <br />
+7- Investigating transcription factors activities differences between the four samples (<mark>`TFs_activities_between_samples_dorothea.R`</mark>) <br />
+8- Trajectory analysis (<mark>`TA_with_monocle.R`</mark>) <br />
+9- Investigating pathways activities differences between cell types (<mark>`investigating_pathways_in_annotated_cell_types_progney.R`</mark>) <br />
+10- Investigating pathways activities differences between the four samples (<mark>`investigating_pathways_in_samples_progney.R`</mark>) <br />
+11- scWGCNA analysis between MuSCs in the late differentiation stage and_ fibroblasts (<mark>`scwgcna_analysis_between_late_differentiation_and_fibro.R`</mark>) <br />
+12- Investigating transcription factors and opathways activities in fibroblasts emerging from different samples (<mark>`fibroblasts_analysis.R`</mark>) <br />
 
 -----
 ## Contributors:
