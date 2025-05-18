@@ -27,5 +27,7 @@ Here, I included the following R scripts: <br />
 This work was done by: <br />
 Amira A. Alakhdar, Sruthi Sivakumar, Rylee M. Kopchak, Allison N. Hunter, Fabrisia Ambrosio, Newell R. Washburn
 
+[Link to the paper](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adbi.202400334)
+
 
 
